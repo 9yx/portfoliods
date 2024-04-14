@@ -1,6 +1,6 @@
 # Предсказание успешности стартапа
 
-[ipynb](...)
+[ipynb](https://github.com/9yx/portfoliods/blob/main/Startup%20Success/startup.ipynb)
 
 ## Описание проекта
 
